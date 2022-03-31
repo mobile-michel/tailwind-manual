@@ -1,0 +1,8 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro'
+---
+
+<BaseLayout>
+  <h1>Contact page</h1>
+  <p>This is my page content. It will be nested inside the /src/layouts/BaseLayout.astro layout.</p>
+</BaseLayout>
